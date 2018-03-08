@@ -43,7 +43,7 @@ ZoomInTextView ztv = findViewById(R.id.zoomIn_tv);
 
 <h2>License</h2>
 
-	Copyright 2017 Samuel Hsieh
+	Copyright 2018 Samuel Hsieh
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
