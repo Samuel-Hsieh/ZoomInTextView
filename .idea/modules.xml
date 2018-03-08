@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZoomInTextView.iml" filepath="$PROJECT_DIR$/ZoomInTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple/app.iml" filepath="$PROJECT_DIR$/simple/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomintextview/zoomintextview.iml" filepath="$PROJECT_DIR$/zoomintextview/zoomintextview.iml" />
+    </modules>
+  </component>
+</project>
