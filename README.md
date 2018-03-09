@@ -21,7 +21,7 @@ repositories {
 
 ```gradle
 dependencies {
-  compile 'com.samuelhsieh:ZoomInTextView:1.0.1'
+  compile 'com.samuelhsieh:zoomintextview:1.0.1'
 }
 ```
 <h3>Functions</h3>
