@@ -1,6 +1,27 @@
-# ZoomInTextView
+<h2>ZoomInTextView</h2>
+
+[![](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/Download-1.0.1-blue.svg)](https://bintray.com/medathsieh/AndroidLib/ZoomInTextView/1.0.1)
+
 Click on textview and automatic zoom in
 
+<h2>How do I use it?</h2>
+
+<h3>Setup</h3>
+
+On the bulid.gradle
+
+```gradle
+repositories {
+    jcenter()
+}
+```
+
+```gradle
+dependencies {
+  compile 'com.samuelhsieh:ZoomInTextView:1.0.1'
+}
+```
 <h3>Functions</h3>
 
 <h4>Dynamically add components</h4>
