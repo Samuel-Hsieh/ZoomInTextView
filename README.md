@@ -5,6 +5,8 @@
 
 Click on textview and automatic zoom in
 
+<img src="https://github.com/Samuel-Hsieh/ZoomInTextView/blob/master/image/prototype.gif" width="350"/>
+
 <h2>How do I use it?</h2>
 
 <h3>Setup</h3>
